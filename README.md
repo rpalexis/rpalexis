@@ -1,6 +1,6 @@
 ### Rulx Philome Alexis
 
-DevSecOps & Red Team practitioner — Infrastructure as Code (Terraform/OpenTofu), Kubernetes (Talos Linux), software supply-chain security (sigstore). Security enthusiast, currently sharpening the offensive side through CTFs.
+DevSecOps — Infrastructure as Code (Terraform/OpenTofu), Kubernetes (Talos Linux), software supply-chain security (sigstore). Security enthusiast, currently sharpening the offensive side through CTFs.
 
 I contribute to open source. Latest work: a missing SDN BGP-controller resource for [bpg/terraform-provider-proxmox](https://github.com/bpg/terraform-provider-proxmox) — the widely used Terraform provider for Proxmox VE — and an initContainers fix that shipped in [grafana/helm-charts](https://github.com/grafana/helm-charts).
 
