@@ -10,8 +10,8 @@ I also own and operate **[AS214587](https://rulx.dev/blog/my-ipv6-only-asn/)**, 
 
 | Project | PR | Status | Scope |
 |---|---|---|---|
-| [bpg/terraform-provider-proxmox](https://github.com/bpg/terraform-provider-proxmox) | [#3183](https://github.com/bpg/terraform-provider-proxmox/pull/3183) | in review | feat(sdn): new resource `proxmox_sdn_controller_bgp` (17 files, +1526/-7) |
-| [bpg/terraform-provider-proxmox](https://github.com/bpg/terraform-provider-proxmox) | [#3182](https://github.com/bpg/terraform-provider-proxmox/pull/3182) | in review | docs: unattended install option for the Proxmox test VM |
+| [bpg/terraform-provider-proxmox](https://github.com/bpg/terraform-provider-proxmox) | [#3183](https://github.com/bpg/terraform-provider-proxmox/pull/3183) | merged | feat(sdn): new resource `proxmox_sdn_controller_bgp` (17 files, +1526/-7) |
+| [bpg/terraform-provider-proxmox](https://github.com/bpg/terraform-provider-proxmox) | [#3182](https://github.com/bpg/terraform-provider-proxmox/pull/3182) | merged | docs: unattended install option for the Proxmox test VM |
 | [grafana/helm-charts](https://github.com/grafana/helm-charts) | [#3631](https://github.com/grafana/helm-charts/pull/3631) | merged | tempo-distributed: adding missing init-containers in components |
 | [tstromberg/sigstore-the-local-way](https://github.com/tstromberg/sigstore-the-local-way) | [#20](https://github.com/tstromberg/sigstore-the-local-way/pull/20) | merged | documentation: sigstore installation walkthrough |
 | [ecelestin/ecelestin-Moncash-sdk-php](https://github.com/ecelestin/ecelestin-Moncash-sdk-php) | 7 commits | co-author | PHP SDK for MonCash (Digicel Haiti mobile payments) — initial SDK structure, refactor, sandbox endpoints fix (2019) |
